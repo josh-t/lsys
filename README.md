@@ -4,8 +4,8 @@ A little bit of python that corresponds to the **L-systems**
 [article on wikipedia](https://en.wikipedia.org/wiki/L-system). 
 
 I've been wanting to do this for a while and it was a fun little exercise.
-If I have time I'll come back and clean it up. Some of the classes (Axiom and
-Rule for sure) seem a little overkill, but the API is explicit so that's ok I 
+If I have time I'll come back and clean it up. Some of the classes (`Axiom` and
+`Rule` for sure) seem a little overkill, but the API is explicit so that's ok I 
 think.
 
 Because this was written for fun, I make no promises that this is an accurate
