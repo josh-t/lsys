@@ -40,5 +40,6 @@ n=7 : ABAABABAABAABABAABABAABAABABAABAAB
 ```
 
 Enjoy!
+
 -Josh T.
 
